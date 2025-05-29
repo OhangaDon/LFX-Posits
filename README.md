@@ -87,7 +87,7 @@ Posit:  25.98 µs
 
 ## 📎 Report and Screenshots
 
-You can find the full write-up and screenshots in the [`Posit.docx`](./Posit.docx) document.
+You can find the full write-up and screenshots in the [`Posit.docx`](./Posit.docx.pdf) document.
 
 ---
 
